@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+build
+.pytest_cache
